@@ -1,9 +1,9 @@
 # 오다르
 ```
 🍀 시니어 맞춤 구인구직 웹 서비스
-```
 ✅ UMC 4th MasterCourse  
-📆 2023.06 ~  
+📆 2023.06 ~
+```
 
 <div align="center"> 
   
@@ -21,13 +21,10 @@
 
 ## 👴🏻Tech Stack
 **Web Frontend**  
-![React.js](https://img.shields.io/badge/React.js-black??style=plastic&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E??style=plastic&logo=javascript&logoColor=white)
+`React.js`, `JavaScript`  
   
 **Server**  
-![Node.js](https://img.shields.io/badge/Node.js-80BD01??style=plastic&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E??style=plastic&logo=javascript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-254C7E??style=plastic&logo=postgresql&logoColor=white)  
+`Node.js`, `Express`, `JavaScript`, `PostgreSQL`, `DataGrip`, `Kakao Local API`, `Naver Cloud SMS API`  
 
 <br/>
 
